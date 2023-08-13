@@ -17,7 +17,7 @@
 
 <h3>👋 Who am I ?</h3>
 
-I'm a developer at heart but can be a network administrator, project manager, moviemaker, writer, game designer, actor (why not), teacher, debater and politician Wednesdays only. All my projects start from an idea during my sleep, shower or when I'm walking 10 miles to get back home. To this day, I'm not relying on any framework to design my projects or any already existing application to assist me as I want to have total control on how I'm programming and what I'm doing. Nonetheless, I'm extremely open-minded and always willing to work with people.
+I'm a 3rd year student in Networks and Telecommunications aspiring to create new meaningful apps and systems to help and empower people. I'm a developer at heart but can be a network administrator, project manager, moviemaker, writer, game designer, actor (why not), teacher, debater and politician Wednesdays only. All my projects start from an idea during my sleep, shower or when I'm walking 10 miles to get back home. To this day, I'm not relying on any framework to design my projects or any already existing application to assist me as I want to have total control on how I'm programming and what I'm doing. Nonetheless, I'm extremely open-minded and always willing to work with people.
 
 ---
 
@@ -68,6 +68,16 @@ I'm a developer at heart but can be a network administrator, project manager, mo
  - 🇫🇷 (obvi)
  - 🇬🇧 (I mean, you can read, can you ?)
  - 🇮🇹 (if i'm threatened with a knife)
+
+---
+
+<h3>✉️ Contact me</h3>
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/nolan-by/?locale=en_US"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30px alt="LinkedIn"/> </a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto: nolan.benyahya@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="https://cdn-icons-png.flaticon.com/128/732/732200.png" width=30px alt="E-mail"/> </a>
+</div>
 
 ---
 
