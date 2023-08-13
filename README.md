@@ -1,4 +1,4 @@
-# NoLAN but code (That's funny indeed !)
+<h1 align="center">NoLAN but code (That's funny indeed !)</h1>
 
 <div align="center">
 	<code><b>Jack-of-all-trades, master of none but often better than a master of one</b></code>
