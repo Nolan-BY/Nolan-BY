@@ -23,7 +23,7 @@ I'm a developer at heart but can be a network administrator, project manager, mo
 
 <h3>📜 My motto</h3>
 
-<h4 align="center">✨ <i>Always more, never enough</i> ✨</h4>
+<b align="center">✨ <i>Always more, never enough</i> ✨</b>
 
 ---
 
