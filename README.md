@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="middle">
+<div align="center">
 	<i>The king repudiates the queen, the old lady marries the parrot, Caesar becomes king, I marry him and become queen!</i>
 	<p align="right">- Louis de Funès&emsp;&emsp;&emsp;&emsp;</p>
 </div>
@@ -18,6 +18,12 @@
 <h3>👋 Who am I ?</h3>
 
 I'm a developer at heart but can be a network administrator, project manager, moviemaker, writer, game designer, actor (why not), teacher, debater and politician Wednesdays only. All my projects start from an idea during my sleep, shower or when I'm walking 10 miles to get back home. To this day, I'm not relying on any framework to design my projects or any already existing application to assist me as I want to have total control on how I'm programming and what I'm doing. Nonetheless, I'm extremely open-minded and always willing to work with people.
+
+---
+
+<h3>📜 My motto</h3>
+
+<h4 align="center">✨ <i>Always more, never enough</i> ✨</h4>
 
 ---
 
