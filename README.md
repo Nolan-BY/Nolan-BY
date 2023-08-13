@@ -9,7 +9,7 @@
 <br>
 
 <div align="middle">
-	<i>Le roi répudie la reine, la vieille épouse le perroquet, César devient roi, je l'épouse et me voilà reine !</i>
+	<i>The king repudiates the queen, the old lady marries the parrot, Caesar becomes king, I marry him and become queen!</i>
 	<p align="right">- Louis de Funès&emsp;&emsp;&emsp;&emsp;</p>
 </div>
 
