@@ -32,33 +32,33 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 <h3>🧰 My tools</h3>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=30px alt="VSCode"/>
+<picture><img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=30px alt="VSCode"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=30px alt="Linux"/>
+<picture><img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=30px alt="Linux"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=30px alt="Github"/>
+<picture><img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=30px alt="Github"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=30px alt="Git"/>
+<picture><img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=30px alt="Git"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=30px alt="RaspberryPi"/>
+<picture><img title="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=30px alt="RaspberryPi"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=30px alt="Arduino"/>
+<picture><img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=30px alt="Arduino"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width=30px alt="Apache"/>
+<picture><img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width=30px alt="Apache"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=30px alt="Mysql"/>
+<picture><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=30px alt="MySQL"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=30px alt="Python"/>
+<picture><img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=30px alt="Python"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=30px alt="PHP"/>
+<picture><img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=30px alt="PHP"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=30px alt="HTML5"/>
+<picture><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=30px alt="HTML5"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=30px alt="CSS3"/>
+<picture><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=30px alt="CSS3"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30px alt="JavaScript"/>
+<picture><img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30px alt="JavaScript"/></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width=30px alt="Godot"/>
+<picture><img title="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width=30px alt="Godot"/></picture>
 </div>
 
 ---
