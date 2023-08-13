@@ -6,6 +6,13 @@
 	<img src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif" alt="Lofi Dev Banner" style="width: 50rem;">
 </div>
 
+<br>
+
+<div align="middle">
+	<i>Le roi répudie la reine, la vieille épouse le perroquet, César devient roi, je l'épouse et me voilà reine !</i>
+	<p align="right">- Louis de Funès&emsp;&emsp;&emsp;&emsp;</p>
+</div>
+
 ---
 
 <h3>👋 Who am I ?</h3>
