@@ -3,7 +3,11 @@
 <div align="center">
 	<code><b>Jack-of-all-trades, master of none but often better than a master of one</b></code>
 	<br><br>
-	<a href="#"><img src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif" alt="Lofi Dev Banner" style="width: 50rem;"></a>
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif">
+  		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif">
+		<img src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif" alt="Lofi Dev Banner" style="width: 50rem;">
+	</picture>
 </div>
 
 <br>
@@ -32,33 +36,89 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 <h3>🧰 My tools</h3>
 
 <div align="center">
-<a href="#"><img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=30px alt="VSCode"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=30px alt="Linux"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=30px alt="Github"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=30px alt="Git"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=30px alt="RaspberryPi"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=30px alt="Arduino"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width=30px alt="Apache"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=30px alt="MySQL"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=30px alt="Python"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=30px alt="PHP"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=30px alt="HTML5"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=30px alt="CSS3"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30px alt="JavaScript"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width=30px alt="Godot"/></a>
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+		<img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=30px alt="VSCode"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+		<img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=30px alt="Linux"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+		<img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=30px alt="Github"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+		<img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=30px alt="Git"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+		<img title="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=30px alt="RaspberryPi"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+		<img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=30px alt="Arduino"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+		<img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width=30px alt="Apache"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+		<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=30px alt="MySQL"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+		<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=30px alt="Python"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+		<img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=30px alt="PHP"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+		<img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=30px alt="HTML5"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+		<img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=30px alt="CSS3"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+		<img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30px alt="JavaScript"/>
+	</picture>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+	  	<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+		<img title="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width=30px alt="Godot"/>
+	</picture>
 </div>
 
 ---
@@ -87,17 +147,29 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 <br><br>
 
 <div align="center">
-  <a href="#"><img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg" alt="My Work Process is... special"></a>
+  <picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg">
+	  <img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg" alt="My Work Process is... special">
+  </picture>
 </div>
 
 <br>
 
 <center>
-  <a href="#"><img width=100% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif" alt="Wouuuwww rainbow ! Be who you are, for your priiiiiidde !"></a>
+  <picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif">
+	  <img width=100% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif" alt="Wouuuwww rainbow ! Be who you are, for your priiiiiidde !">
+  </picture>
 </center>
 
 <br><br>
 
 <div align="center">
-  <a href="#"><img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg" alt="My current sanity over work done is at : Need inspiration"></a>
+  <picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg">
+	  <img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg" alt="My current sanity over work done is at : Need inspiration">
+  </picture>
 </div>
