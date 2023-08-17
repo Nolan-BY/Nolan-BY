@@ -170,6 +170,6 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
   <picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg">
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg">
-	  <img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg" alt="My current sanity over work done is at : Need inspiration">
+	  <img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg" alt="My current sanity over work done is at : Ok we good">
   </picture>
 </div>
