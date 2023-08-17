@@ -4,9 +4,9 @@
 	<code><b>Jack-of-all-trades, master of none but often better than a master of one</b></code>
 	<br><br>
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif">
-  		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif">
-		<img src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/main/Images/Banners/Lofi-Dev.gif" alt="Lofi Dev Banner" style="width: 50rem;">
+		<source media="(prefers-color-scheme: dark)" srcset="Images/Banners/Lofi-Dev.gif">
+  		<source media="(prefers-color-scheme: light)" srcset="Images/Banners/Lofi-Dev.gif">
+		<img src="Images/Banners/Lofi-Dev.gif" alt="Lofi Dev Banner" style="width: 50rem;">
 	</picture>
 </div>
 
@@ -148,9 +148,9 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 
 <div align="center">
   <picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg">
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg">
-	  <img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Work-Process.svg" alt="My Work Process is... special">
+	  <source media="(prefers-color-scheme: dark)" srcset="Images/Graphs/Work-Process.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="Images/Graphs/Work-Process.svg">
+	  <img width=50% src="Images/Graphs/Work-Process.svg" alt="My Work Process is... special">
   </picture>
 </div>
 
@@ -158,9 +158,9 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 
 <center>
   <picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif">
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif">
-	  <img width=100% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/b560f20be026ca4e51b8d441f86d1ccda7b78c53/Images/Deco/Rainbow-line.gif" alt="Wouuuwww rainbow ! Be who you are, for your priiiiiidde !">
+	  <source media="(prefers-color-scheme: dark)" srcset="Images/Deco/Rainbow-line.gif">
+	  <source media="(prefers-color-scheme: light)" srcset="Images/Deco/Rainbow-line.gif">
+	  <img width=100% src="Images/Deco/Rainbow-line.gif" alt="Wouuuwww rainbow ! Be who you are, for your priiiiiidde !">
   </picture>
 </center>
 
@@ -168,8 +168,8 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 
 <div align="center">
   <picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg">
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg">
-	  <img width=50% src="https://raw.githubusercontent.com/Nolan-BY/Nolan-BY/1e3bcca8611502099b9d1bf9ba66519663419863/Images/Graphs/Sanity.svg" alt="My current sanity over work done is at : Ok we good">
+	  <source media="(prefers-color-scheme: dark)" srcset="Images/Graphs/Sanity.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="Images/Graphs/Sanity.svg">
+	  <img width=50% src="Images/Graphs/Sanity.svg" alt="My current sanity over work done is at : Ok we good">
   </picture>
 </div>
