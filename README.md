@@ -121,6 +121,16 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 	</picture>
 </div>
 
+<div>&nbsp;</div>
+
+<div align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-BY&layout=compact">
+	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-BY&layout=compact">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-BY&layout=compact" alt="My most used languages">
+  	</picture>
+</div>
+
 ---
 
 <h3>🗣 I can speak :</h3>
