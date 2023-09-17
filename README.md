@@ -144,11 +144,11 @@ I'm a 3rd year student in Networks and Telecommunications aspiring to create new
 <h3>✉️ Contact me</h3>
 
 <div align="center">
-	<a href="https://nolanby.me"> <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width=30px alt="Website"/> </a>
+	<a href="https://nolanby.me" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width=30px alt="Website"/> </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/nolan-by/?locale=en_US"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30px alt="LinkedIn"/> </a>
+	<a href="https://www.linkedin.com/in/nolan-by/?locale=en_US" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30px alt="LinkedIn"/> </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto: nolan.benyahya@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="https://cdn-icons-png.flaticon.com/128/732/732200.png" width=30px alt="E-mail"/> </a>
+	<a href="mailto: nolan.benyahya@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="https://cdn-icons-png.flaticon.com/128/732/732200.png" width=30px alt="E-mail"/> </a>
 </div>
 
 ---
