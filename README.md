@@ -13,8 +13,8 @@
 <br>
 
 <div align="center">
-	<i>The king repudiates the queen, the old lady marries the parrot, Caesar becomes king, I marry him and become queen!</i>
-	<p align="right">- Louis de Funès&emsp;&emsp;&emsp;&emsp;</p>
+	<i>No one's a pro from the start. They need time to adjust.</i>
+	<p align="right">- Hong Du-sik&emsp;&emsp;&emsp;&emsp;</p>
 </div>
 
 ---
